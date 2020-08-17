@@ -1,1 +1,1 @@
-estou trocando o arquivo novamente 
+estou trocando o arquivo novamente abri o arquivo novamente para editar no repositório do git após o commit 
